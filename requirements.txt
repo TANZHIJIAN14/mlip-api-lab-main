@@ -1,0 +1,5 @@
+Flask~=3.0.3
+azure-cognitiveservices-vision-computervision
+azure-core~=1.32.0
+msrest~=0.7.1
+python-dotenv
